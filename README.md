@@ -6,6 +6,9 @@ If you see anything that needs to be updated or changed please let us know via e
 
 Resources:
 
+The Quick link for getting to this repository is:
+http://bylaws.ofatv.org
+
 Ontario Regulation 316/03: OPERATION OF OFF-ROAD VEHICLES ON HIGHWAYS
 https://www.ontario.ca/laws/regulation/030316
 
