@@ -1,4 +1,4 @@
-This repository contains all ATV Bylaws created based on Ontario Regulation 316/03 to the best of our knowledge.
+This repository is a crowd sourcing project and contains all ATV Bylaws created based on Ontario Regulation 316/03 to the best of our knowledge.
 
 You may use it as is, but we are not responsible for any mistakes.
 
