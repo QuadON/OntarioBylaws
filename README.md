@@ -1,8 +1,8 @@
-This repository is a crowd sourcing project and contains all ATV Bylaws created based on Ontario Regulation 316/03 to the best of our knowledge.
+This repository is a crowdsourcing project and contains all ATV Bylaws created based on Ontario Regulation 316/03 to the best of our knowledge.
 
 You may use it as is, but we are not responsible for any mistakes.
 
-If you see anything that needs to be updated or changed please let us know via email info@quadon.ca or by submitting a pull request.
+If you see anything that needs to be updated or changed, please let us know via email info@quadon.ca or by submitting a pull request.
 
 Resources:
 
@@ -18,7 +18,7 @@ https://www.ontario.ca/laws/statute/90o04
 R.R.O. 1990, Reg. 863: GENERAL
 https://www.ontario.ca/laws/regulation/900863
 
-O. Reg. 8/03: LOCAL MUNICIPALITIES WHERE 80 KILOMETRES PER HOUR SPEED LIMIT APPLIES
+Ontario Regulation 8/03: LOCAL MUNICIPALITIES WHERE 80 KILOMETRES PER HOUR SPEED LIMIT APPLIES
 https://www.ontario.ca/laws/regulation/030008
 
 Occupiers’ Liability Act, R.S.O. 1990, c. O.2
