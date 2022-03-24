@@ -9,17 +9,20 @@ Resources:
 The Quick link for getting to this repository is:
 http://bylaws.ofatv.org
 
-Ontario Regulation 316/03: OPERATION OF OFF-ROAD VEHICLES ON HIGHWAYS
-https://www.ontario.ca/laws/regulation/030316
-
 Off-Road Vehicles Act
 https://www.ontario.ca/laws/statute/90o04
+
+Ontario Regulation 316/03: OPERATION OF OFF-ROAD VEHICLES ON HIGHWAYS
+https://www.ontario.ca/laws/regulation/030316
 
 R.R.O. 1990, Reg. 863: GENERAL
 https://www.ontario.ca/laws/regulation/900863
 
 Ontario Regulation 8/03: LOCAL MUNICIPALITIES WHERE 80 KILOMETRES PER HOUR SPEED LIMIT APPLIES
 https://www.ontario.ca/laws/regulation/030008
+
+Trespass to Property Act, R.S.O. 1990, c. T.21
+https://www.ontario.ca/laws/statute/90t21
 
 Occupiers’ Liability Act, R.S.O. 1990, c. O.2
 https://www.ontario.ca/laws/statute/90o02
