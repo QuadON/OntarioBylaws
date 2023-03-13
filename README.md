@@ -27,5 +27,8 @@ https://www.ontario.ca/laws/statute/90t21
 Occupiers’ Liability Act, R.S.O. 1990, c. O.2
 https://www.ontario.ca/laws/statute/90o02
 
+Highway Traffic Act, R.S.O. 1990, c. H.8
+https://www.ontario.ca/laws/statute/90h08
+
 Happy trails,
 Team OFATV
